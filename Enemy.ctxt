@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Enemy
+comment1.params=speed\ life\ damage\ folderName
+comment1.target=Enemy(int,\ int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ setPlayer()
+comment3.params=
+comment3.target=void\ start()
+comment4.params=
+comment4.target=void\ followPlayer()
+comment5.params=
+comment5.target=void\ switchImage()
+comment6.params=
+comment6.target=void\ die()
+comment7.params=
+comment7.target=void\ hitStun()
+comment8.params=
+comment8.target=void\ attackPlayer()
+numComments=9

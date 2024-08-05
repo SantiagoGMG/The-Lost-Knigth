@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=
+comment1.target=Player()
+comment10.params=
+comment10.target=void\ checkCollision()
+comment11.params=
+comment11.target=void\ checkImage()
+comment2.params=x
+comment2.target=Player(int)
+comment3.params=
+comment3.target=void\ addHurtBox()
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ attack()
+comment6.params=
+comment6.target=void\ shoot()
+comment7.params=
+comment7.target=void\ checkMove()
+comment8.params=damage
+comment8.target=void\ hitStun(int)
+comment9.params=
+comment9.target=void\ die()
+numComments=12

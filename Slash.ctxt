@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Slash
+comment1.params=
+comment1.target=Slash()
+comment2.params=l
+comment2.target=Slash(java.lang.String)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ switchImage()
+numComments=5

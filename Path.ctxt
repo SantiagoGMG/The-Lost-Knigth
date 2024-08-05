@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Path
+comment1.params=
+comment1.target=Path()
+comment2.params=x
+comment2.target=Path(int)
+comment3.params=
+comment3.target=void\ setWalls()
+numComments=4

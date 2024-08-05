@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Chest
+comment1.params=
+comment1.target=Chest()
+comment2.params=weapon
+comment2.target=Chest(java.lang.String)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ switchImage()
+comment5.params=
+comment5.target=void\ disappear()
+comment6.params=
+comment6.target=void\ openChest()
+numComments=7

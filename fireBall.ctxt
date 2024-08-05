@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=fireBall
+comment1.params=
+comment1.target=fireBall()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkDirection()
+comment4.params=
+comment4.target=void\ shoot()
+comment5.params=
+comment5.target=void\ switchImage()
+numComments=6
