@@ -5,9 +5,9 @@ Here is a video running the project.
 
 ![image](https://github.com/user-attachments/assets/91c8950b-110d-449f-9a8a-7fab0e87144b)
 
-Requirements
-Java 17 or higher
-Greenfoot installed
+# Requirements
+[Java](https://www.oracle.com/mx/java/technologies/downloads/) 17 or higher
+[Greenfoot](https://www.greenfoot.org/home) installed
 Running the project
 Download the source code and decompress it on a folder.
 Open the project.greenfoot file with Greenfoot.
@@ -17,6 +17,6 @@ In order to run again the project click Tools > Recompile Scenario
 
 Credits
 Thanks Team:
-@SebastianMayG 
-@Luisalbertochinpro12 
-@AleksPrz
+[@SebastianMayG](https://github.com/SebastianMayG)
+[@Luisalbertochinpro12]_(https://github.com/Luisalbertochinpro12)
+[@AleksPrz](https://github.com/AleksPrz)
